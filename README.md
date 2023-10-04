@@ -1,4 +1,4 @@
-# MAD-workshop7
+# MAD_workshop7
 
 ## Develop an android application while closing app or pressing button show alert or warning message in android studio using alert or prompt dialog box.
 
