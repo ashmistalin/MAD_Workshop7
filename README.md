@@ -67,8 +67,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![Screenshot (358)](https://github.com/ashmistalin/MAD--Workshop5/assets/103128410/f1f727aa-47f4-4634-87d6-4c2b8f3e0179)
-![Screenshot (359)](https://github.com/ashmistalin/MAD--Workshop5/assets/103128410/55acfc53-8fba-41cd-9735-6375f007f0a5)
+![Screenshot (383)](https://github.com/ashmistalin/MAD_Workshop7/assets/103128410/e8152cab-2b47-4e46-a5d8-cabc1edb1ad9)
+![Screenshot (384)](https://github.com/ashmistalin/MAD_Workshop7/assets/103128410/5c664e53-cf33-4baf-838b-4ce43fc52546)
 
 
 ## RESULT:
